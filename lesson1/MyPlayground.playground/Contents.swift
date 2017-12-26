@@ -1,7 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
-
+//very
 var str = "Algoritms on Swift. Beginning."
 
 extension BinarySearchTree: CustomStringConvertible {
